@@ -1,2 +1,2 @@
 # Ans
-![image alt] (https://github.com/Abhinav790341/Ansii/blob/main/WhatsApp%20Image%202024-09-12%20at%2021.12.49_30045e57.jpg?raw=true)
+![image alt] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbirthday-wishes&psig=AOvVaw1g3txtlGGopYNDTaoDKO93&ust=1726246950893000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOChppbxvYgDFQAAAAAdAAAAABAE)
