@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f9c2c2, #f0f0f0);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    perspective: 1000px;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 1s;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 3em;
+    color: #ff69b4;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.blessings {
+    font-size: 1.5em;
+    color: #fff;
+    background: rgba(255, 105, 180, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.countdown {
+    margin: 20px 0;
+}
+
+#countdown {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff1493;
+}
+
+.personalized-image img {
+    width: 50%;
+    max-width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
